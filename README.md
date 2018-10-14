@@ -23,8 +23,8 @@ Others description you can find in the
 or [here](http://www.cplusplus.com/reference/cstdio/printf/)
 
 ### Screenshots
-![](https://gitlab.com/ramm4/printf_c99_redesigning_behavior/raw/88750596c80000ad95156d0757a8c0208c2c586a/Screenshot_2018-07-03_08-42-04.png)
-![](https://gitlab.com/ramm4/printf_c99_redesigning_behavior/raw/master/Screenshot_2018-07-03_08-56-28.png)
+![](https://github.com/matvienkoLT/printf_c99_redesigning_behavior/blob/master/Screenshot_2018-07-03_08-42-04.png)
+![](https://github.com/matvienkoLT/printf_c99_redesigning_behavior/blob/master/Screenshot_2018-07-03_08-56-28.png)
 
 ### How can I use these functions?
     Create library libftprintf.a
